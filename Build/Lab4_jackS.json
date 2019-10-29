@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "LAB4",
+"dataUrl": "Lab4_jackS.data.unityweb",
+"wasmCodeUrl": "Lab4_jackS.wasm.code.unityweb",
+"wasmFrameworkUrl": "Lab4_jackS.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
